@@ -6,11 +6,10 @@ The Add Custom Weight unit extension for Magento 2 product especially works for 
 ## Installation
 Via Composer
 
-bash
 composer require sunarctech/magento2-customweight
 
 ## Key Features
-- It will extension provide you the functionality to add weight unit of your choice for products. 
+- It will provide you the functionality to add weight unit of your choice for products. 
 - Easy to use and user friendly.
 
 ## Instructions for Setup
